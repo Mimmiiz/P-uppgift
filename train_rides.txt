@@ -1,0 +1,32 @@
+1
+Stockholm
+Göteborg
+SJ Snabbtåg
+2021
+5
+26
+14
+30
+2021
+5
+26
+18
+0
+1
+250.0
+2
+Stockholm
+Eskilstuna
+SJ Mälartåg
+2021
+5
+26
+12
+0
+2021
+5
+26
+13
+0
+2
+100.0
